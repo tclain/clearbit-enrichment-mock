@@ -1,0 +1,26 @@
+{
+  "name": "clearbit-enrichment-mock",
+  "version": "1.0.0",
+  "description": "This is a simple project that makes a [static deployment](https://zeit.co/docs/deployment-types/static) to Now.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tclain/now-github-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tclain/now-github-starter/issues"
+  },
+  "homepage": "https://github.com/tclain/now-github-starter#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "is_js": "^0.9.0"
+  }
+}
